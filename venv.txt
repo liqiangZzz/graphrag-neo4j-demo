@@ -1,0 +1,5 @@
+conda create -n  graphrag-neo4j python=3.13 -y
+
+conda activate graphrag-neo4j
+
+pip install -r  requirements.txt
